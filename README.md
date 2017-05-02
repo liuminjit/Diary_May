@@ -1,6 +1,6 @@
 # Diary_May
 ## Table of Contents
-  1. [【2017-5-2】用 Inno Setup Compiler 打包笔记](#用 Inno Setup Compiler 打包笔记 2017/5/2)
+  1. [2017-5-2 用 Inno Setup Compiler 打包笔记](#用 Inno Setup Compiler 打包笔记 2017/5/2)
 ## Diary 【 2017/5/2 】  
 ### 用 Inno Setup Compiler 打包笔记 2017/5/2 
     Create a new script file using the Script Wizard  
