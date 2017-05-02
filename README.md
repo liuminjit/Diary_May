@@ -1,4 +1,16 @@
 # Diary_April
+## Table of Contents
+
+  1. [Basic Rules](#第一页面)
+  1. [Class vs `React.createClass` vs stateless](#class-vs-reactcreateclass-vs-stateless)
+  1. [Mixins](#mixins)
+  1. [Naming](#naming)
+  1. [Declaration](#declaration)
+  1. [Alignment](#alignment)
+  1. [Quotes](#quotes)
+  1. [Spacing](#spacing)
+  1. [Props](#props)
+  1. [Refs](#refs)
 ## Diary 【 2017/5/2 】  
 ### 用 Inno Setup Compiler 打包笔记 2017/5/2 
     Create a new script file using the Script Wizard  
