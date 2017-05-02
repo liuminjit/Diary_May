@@ -1,6 +1,6 @@
 # Diary_April
 ## Diary 【 2017/5/2 】  
-### 用 Inno Setup Compiler 打包笔记 2017/5/2  [XXXX](#first)
+### 用 Inno Setup Compiler 打包笔记 2017/5/2 
     Create a new script file using the Script Wizard  
     用script wizard(脚本向导)脚本向导创建一个新的脚本文件
 #### 第一页面
@@ -27,8 +27,7 @@
     Information file shown before installation (txt 安装前显示的信息)
     Information file shown after installation (txt 安装后显示的信息)
  	  next >
-<span id="first">第六页面</span>
-
+#### 第六页面
   	选择语言
   	next >
 #### 第七页面
