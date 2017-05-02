@@ -27,9 +27,10 @@
     Information file shown before installation (txt 安装前显示的信息)
     Information file shown after installation (txt 安装后显示的信息)
  	  next >
-#### <span id="first">第六页面</span>
-	选择语言
- 	next >
+<span id="first">第六页面</span>
+
+  	选择语言
+  	next >
 #### 第七页面
 	* Custom compiler output folder ( 自定义编译器输出的文件夹)
 	* Compiler output base file name  ( 编译输出基础文件名 ——安装包名 )
