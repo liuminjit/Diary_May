@@ -1,6 +1,6 @@
 # Diary_April
 ## Diary 【 2017/5/2 】
-### 打包笔记 2017/5/2
+### 用 Inno Setup Compiler 打包笔记 2017/5/2
     Create a new script file using the Script Wizard  
     用script wizard(脚本向导)脚本向导创建一个新的脚本文件
 #### 第一页面
@@ -31,10 +31,10 @@
 	选择语言
  	next >
 #### 第七页面
-	Custom compiler output folder ( 自定义编译器输出的文件夹)
-	Compiler output base file name  ( 编译输出基础文件名 ——安装包名 )
-	Custom Setup icon file ( 自定义设置图标文件 icon)
-	Setup password ( 安装密码 )
+	* Custom compiler output folder ( 自定义编译器输出的文件夹)
+	* Compiler output base file name  ( 编译输出基础文件名 ——安装包名 )
+	* Custom Setup icon file ( 自定义设置图标文件 icon)
+	* Setup password ( 安装密码 )
 	next >
 #### 第八个页面
     * use #define compiler directives ( 使用#定义编译器指令 )
