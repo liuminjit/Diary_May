@@ -1,6 +1,6 @@
 # Diary_May
 ## Table of Contents
-  1. [2017-5-2 用 Inno Setup Compiler 打包笔记](#diary--201752-)
+  1. [2017-5-2 用 Inno Setup Compiler 打包笔记](#diary--201752--)
   
   2. [对 HTTP 304 的理解](#diary--2017512-)
 ## Diary 【 2017/5/2 】   
