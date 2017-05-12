@@ -1,7 +1,9 @@
 # Diary_May
 ## Table of Contents
   1. [2017-5-2 用 Inno Setup Compiler 打包笔记](#diary--201752-)
-## Diary 【 2017/5/2 】  
+  
+  2. [对 HTTP 304 的理解](#diary--2017512-)
+## Diary 【 2017/5/2 】   
 ### 用 Inno Setup Compiler 打包笔记 2017/5/2 
     Create a new script file using the Script Wizard  
     用script wizard(脚本向导)脚本向导创建一个新的脚本文件
@@ -41,4 +43,5 @@
 #### 第八个页面
     * use #define compiler directives ( 使用#定义编译器指令 )
   	     Finish 
- 	
+# Diary 【 2017/5/12 】	  
+## 对 HTTP 304 的理解	     
